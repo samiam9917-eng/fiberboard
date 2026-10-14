@@ -1,3 +1,5 @@
+https://snap-show-magic-58.lovable.app
+
 # FiberBoard
 
 Turn a photo of your splice whiteboard into a filled Spectrum-style cut sheet — Excel, PDF, and Google Earth KMZ. No retyping at the truck.
